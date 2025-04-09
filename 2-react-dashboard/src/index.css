@@ -1,0 +1,25 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  background: #0e0e0e;
+  color: #f5f5f5;
+  padding: 2rem;
+}
+
+h1 {
+  color: #00ffff;
+}
+
+.cards {
+  display: flex;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.card {
+  background: #1f1f1f;
+  padding: 1rem;
+  border-radius: 10px;
+  flex: 1;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
